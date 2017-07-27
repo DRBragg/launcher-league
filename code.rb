@@ -47,7 +47,7 @@ end
 
 class Speedster < SuperHero
   def backstory
-    "Waiting on Rob"
+    "Illegitimate love child of Usain Bolt and Mia Dearden"
   end
 
   def powers
@@ -83,11 +83,11 @@ end
 
 class Detective < SuperHero
   def backstory
-    "Driven by the deaths of his wife and two children, who were killed by the mob for witnessing a killing in New York City's Central Park, Nightbird wages a one-man war on the mob and all criminals in general by using all manner of conventional war weaponry."
+    "A former star detective with the NYPD, Luke quit the force after losing his arm to a bomb rather than sitting behind a desk. Thanks to a highly advanced bionic arm, Luke now fights crime as 'Nightbird'"
   end
 
   def powers
-    "Super Smartness"
+    "Bionic Arm"
   end
 
   def weakness
@@ -101,7 +101,7 @@ end
 
 class Demigod < SuperHero
   def backstory
-    "Thor"
+    "Dinah King was a powerful warrior in the Cosmic Plane.  After being banished to Earth by her evil step-mother Dinah uses her God-like powers to fight crime as 'Eris Esoteric'"
   end
 
   def powers
@@ -109,7 +109,7 @@ class Demigod < SuperHero
   end
 
   def weakness
-    "whatever Thor's weakness is"
+    "Looses her powers if she eats soy"
   end
 
   def home
@@ -119,7 +119,7 @@ end
 
 class JackOfAllTrades < SuperHero
   def backstory
-    "Multiple fathers"
+    "The result of genetic experimentaion on an Alien"
   end
 
   def powers
@@ -145,7 +145,7 @@ end
 
 class WaterBased < SuperHero
   def backstory
-    "Waterboy"
+    "Cort Hale grew up in Kansas with his Mom.  After a feak accident at an Aquarium he gain odd powers over water"
   end
 
   def powers
@@ -153,7 +153,7 @@ class WaterBased < SuperHero
   end
 
   def weakness
-    "Slow in the brain"
+    "Females"
   end
 
   def home
